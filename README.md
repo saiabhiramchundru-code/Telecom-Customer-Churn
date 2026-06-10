@@ -69,3 +69,7 @@ A Machine Learning project that predicts whether a telecom customer is likely to
 * Streamlit dashboard creation
 
 ## Output
+
+<img width="548" height="455" alt="Image" src="https://github.com/user-attachments/assets/116c0d63-3046-4875-afd2-b9ac60e01775" />
+<img width="1789" height="989" alt="Image" src="https://github.com/user-attachments/assets/7b2cbcc2-9487-450a-b4e6-76673a4c02af" />
+<img width="856" height="747" alt="Image" src="https://github.com/user-attachments/assets/412bee7d-e82d-4d8f-b32e-e0d16622e485" />
